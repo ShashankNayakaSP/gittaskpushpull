@@ -1,1 +1,4 @@
 Hello Git
+task 1 push local file to git rep
+task 2 pull 
+task 3 create 2 branch
